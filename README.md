@@ -6,7 +6,7 @@ I wanted to make something that answers a question most people have at some poin
 
 **"What actually happens if I keep spending like this?"**
 
-Money Talks is a simple financial simulator that compares three different lifestyles -- saving a little more, spending normally, or spending a little too much—and shows how each one affects your savings over time.
+Money Talks is a simple financial simulator that compares three different lifestyles -- saving a little more, spending normally, or spending a little too much -- and shows how each one affects your savings over time.
 
 It's not meant to replace financial advice. It's just a fun way to visualize how small decisions can snowball into very different futures.
 
