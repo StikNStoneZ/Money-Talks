@@ -55,9 +55,9 @@ Open the frontend and start answering questions.
 
 ## Why I made this
 
-This project started because I wanted to build something that wasn't just another CRUD application.
+This project started because I wanted to actually utilise the knowledge I earned from two semesters worth of Economics (both Macro and Micro) that I had to do for my Computer Science and Information Technology course.
 
-I wanted something with actual logic behind it—different financial strategies, simulations, inflation calculations, investment growth, and a UI that felt more like an app than a form.
+I was really interested to implement in code financial strategies, simulations, inflation calculations, investment growth, and a UI that felt more like an app than a form.
 
 It also ended up being a good excuse to learn how to connect a Java Spring Boot backend with a JavaScript frontend.
 
